@@ -16,3 +16,6 @@ Check out my website better [here](https://thedlcrimson.vercel.app/)
 ![](https://github-profile-trophy.vercel.app/?username=TheDLCrimson&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+You can contact me here: thedlcrimson22@gmail.com
