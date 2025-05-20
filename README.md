@@ -18,4 +18,4 @@ Check out my website better [here](https://thedlcrimson.vercel.app/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-You can contact me here: thedlcrimson22@gmail.com
+You can contact me here: thedlcrimson22@gmail.com or DM me on Discord: 22_crmsn
