@@ -2,6 +2,8 @@
 
 Check out my website better [here](https://thedlcrimson.vercel.app/)
 
+
+oh and... I do some stuff
 <br />
 
 
