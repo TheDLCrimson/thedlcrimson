@@ -1,6 +1,6 @@
 ### Greeting, TheDLC here 🙂 
 
-Check out my website better [here](https://thedlcrimson.vercel.app/)
+Check out my website better [here](https://thedlcrimson.vercel.app/) (WIP)
 
 
 oh and... I do some stuff
