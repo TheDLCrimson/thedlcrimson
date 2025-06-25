@@ -17,6 +17,8 @@ I'm a CS student, dev intern, and part-time ***vibe coder*** (Am I a SWE yet?).
 - 🛠️ Currently building apps and games. Enough to feel productive, enough chaotic to be emotionally damaging.
 - 🏥 Interning in health tech, writing components that are medically accurate *and* aesthetically tolerable
 
+Full-stack by day, full-chaos by night.
+
 ```trmnl
 > Me make plan → Me motivate.  
 > Me write code → Me determinate.  
