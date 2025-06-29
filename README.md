@@ -1,4 +1,4 @@
-<h1 align="center">Heyo, TheDLC here ✌️</h1>
+<h1 align="center">Heyo, TheDLC here</h1>
 <p align="center">
   aka DLCrimson | the fallen gifted
   <br/>
