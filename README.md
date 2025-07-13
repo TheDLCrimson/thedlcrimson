@@ -79,3 +79,4 @@ Okay enough joking around
 - 📧 Email: thedlcrimson22@gmail.com  
 - 💬 Discord: `22_crmsn`
 
+P/S: I would like to join in a project... if possible
