@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4b8ed5b-c5e2-49ba-ae84-a8fe02276005" /><h1 align="center">Heyo, TheDLC here</h1>
+<h1 align="center">Heyo, TheDLC here</h1>
 <p align="center">
   aka DLCrimson | the fallen gifted
   <br/>
