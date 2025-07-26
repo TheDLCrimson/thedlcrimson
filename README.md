@@ -1,4 +1,4 @@
-<h1 align="center">Heyo, TheDLC here</h1>
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b4b8ed5b-c5e2-49ba-ae84-a8fe02276005" /><h1 align="center">Heyo, TheDLC here</h1>
 <p align="center">
   aka DLCrimson | the fallen gifted
   <br/>
@@ -7,7 +7,7 @@
 
 ---
 
-## Errrm... who?
+## 🗿 Errrm... who?
 
 I'm a CS student, dev intern, and part-time ***vibe coder*** (Am I a SWE yet?).
 
