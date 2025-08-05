@@ -9,7 +9,7 @@
 
 ## 🗿 Errrm... who?
 
-I'm a CS student, dev intern, and part-time ***vibe coder*** (Am I a SWE yet?).
+I'm a CS student, software dev intern, newbie gamedev and part-time ***vibe coder*** (Am I a SWE yet?).
 
 ### Time to flex a bit (๑`^´๑)︻デ═一
 - 🧩 Former decent competitive programmer. Got some National ICPC & OLP bronze/third prizes (the lowest step of the podium)
