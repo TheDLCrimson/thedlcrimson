@@ -7,7 +7,7 @@
 
 ---
 
-## 🗿 Errrm... who?
+## 🗿 Errrm..... who?
 
 I'm a CS student, software dev intern, newbie gamedev and part-time ***vibe coder*** (Am I a SWE yet?).
 
