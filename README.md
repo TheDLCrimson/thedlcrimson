@@ -71,7 +71,8 @@ Okay enough joking around
 ## 🎯 Current Projects
 
 *Most of them are WIP... but you can check around to see what is done... I suppose.*
-Check Out my game here: https://thedlcrimson.itch.io/
+
+Oh and I also make games. Check out my game here: https://thedlcrimson.itch.io/
 
 ---
 
