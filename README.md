@@ -81,4 +81,4 @@ Oh and I also make games. Check out my game here: https://thedlcrimson.itch.io/
 - 📧 Email: thedlcrimson22@gmail.com  
 - 💬 Discord: `22_crmsn`
 
-P/S: I would like to join in a project... if possible
+P/S: I would like to join in a project...or collab... if possible
