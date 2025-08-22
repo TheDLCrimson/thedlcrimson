@@ -7,17 +7,18 @@
 
 ---
 
-## 🗿 Errrm..... who?
+## 🗿 Who’s this guy?
 
-I'm a CS student, software dev intern, newbie gamedev and part-time ***vibe coder*** (Am I a SWE yet?).
+I'm a CS student, software dev intern, newbie gamedev, and part-time ***vibe coder*** (does that make me a SWE yet?).
 
-### Time to flex a bit (๑`^´๑)︻デ═一
-- 🧩 Former decent competitive programmer. Got some National ICPC & OLP bronze/third prizes (the lowest step of the podium)
-- 🧠 Snappy UI? Love it. Clean UX? Need it. Breaking things just to rebuild them? Everyday activity. I do both front and back (wait... that came out wrong).
-- 🛠️ Currently building apps and games. Enough to feel productive, enough chaotic to be emotionally damaging.
-- 🏥 Interning in health tech, writing components that are medically accurate *and* aesthetically tolerable
+### Quick flex (๑`^´๑)︻デ═一
+- 🧩 Former competitive programmer - A couple of National ICPC & OLP bronze/third prizes (lowest step of the podium, but hey).  
+- 🧠 Obsessed with snappy UI & clean UX. Love breaking stuff just to rebuild it. I do both front and back (wait... that came out wrong).  
+- 🛠 Building apps and games - Enough to feel productive, enough chaotic to be emotionally damaging. 
+- 🏥 Currently interning in health tech, making components that are *both* medically accurate and actually tolerable to look at.
 
-Full-stack by day, full-chaos by night.
+> **Daytime:** full-stack.  
+> **Nighttime:** full-chaos.
 
 ```trmnl
 > Me make plan → Me motivate.  
@@ -70,15 +71,14 @@ Okay enough joking around
 
 ## 🎯 Current Projects
 
-*Most of them are WIP... but you can check around to see what is done... I suppose.*
-
-Oh and I also make games. Check out my game here: https://thedlcrimson.itch.io/
+*Most are WIP (isn’t everything?)*, but some might surprise you.  
+I also make games – check them out: **[itch.io](https://thedlcrimson.itch.io/)**
 
 ---
 
 ## ☕ Contact Me (I don’t bite, usually)
 
-- 📧 Email: thedlcrimson22@gmail.com  
-- 💬 Discord: `22_crmsn`
+- Email: **thedlcrimson22@gmail.com**  
+- Discord: **22_crmsn**  
 
-P/S: I would like to join in a project...or collab... if possible
+P/S: *Open to collabs or just coding chaos with new people.*
