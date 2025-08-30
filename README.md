@@ -1,6 +1,6 @@
 <h1 align="center">Heyo, TheDLC here</h1>
 <p align="center">
-  aka DLCrimson | the fallen gifted
+  <i> aka DLCrimson | the fallen gifted </i>
   <br/>
   <a href="https://thedlcrimson.vercel.app/">🔗 Check out my website</a> (still WIP, will get it done someday)
 </p>
