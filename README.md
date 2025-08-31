@@ -9,7 +9,7 @@
 
 ## 🗿 Who’s this guy?
 
-I'm a CS student, software dev intern, newbie gamedev, and part-time ***vibe coder*** (does that make me a SWE yet?).
+I'm a CS student, software dev intern, newbie gamedev, and part-time ***vibe coder*** (does that make me a decent SWE yet?).
 
 ### Quick flex (๑`^´๑)︻デ═一
 - 🧩 Former competitive programmer - A couple of National ICPC & OLP bronze/third prizes (lowest step of the podium, but hey).  
