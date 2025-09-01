@@ -2,7 +2,7 @@
 <p align="center">
   <i> aka DLCrimson | the fallen gifted </i>
   <br/>
-  <a href="https://thedlcrimson.vercel.app/">🔗 Check out my website</a> (still WIP, will get it done someday)
+  <a href="https://thedlcrimson.vercel.app/">🔗 Check out my website</a> (still WIP, will get it done someday... hopefully)
 </p>
 
 ---
