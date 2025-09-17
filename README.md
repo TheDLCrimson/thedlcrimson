@@ -17,9 +17,6 @@ I'm a CS student, software dev intern, newbie gamedev, and part-time ***vibe cod
 - 🛠 Building apps and games - Enough to feel productive, enough chaotic to be emotionally damaging. 
 - 🏥 Currently interning in health tech, making components that are *both* medically accurate and actually tolerable to look at.
 
-> **Daytime:** full-stack.  
-> **Nighttime:** full-chaos.
-
 ```trmnl
 > Me make plan → Me motivate.  
 > Me write code → Me determinate.  
@@ -28,6 +25,9 @@ I'm a CS student, software dev intern, newbie gamedev, and part-time ***vibe cod
 > Code break → App die.  
 > Melancholy → Think about life.  
 > Repeat 🔁
+---
+> Daytime: full-stack.  
+> Nighttime: full-chaos.
 ```
 ---
 
