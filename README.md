@@ -62,8 +62,6 @@ Okay enough joking around
 ## 📊 Some Stats Because Why Not
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDLCrimson&theme=radical&hide_border=false" />
-  <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=TheDLCrimson&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </p>
 
